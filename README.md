@@ -1,8 +1,6 @@
 # How to Build a Better NFT Marketplace with React, Solidity, and CometChat
 
-Read the full tutorial here: [**>> How to Build a Better NFT Marketplace with React, Solidity, and CometChat**](https://daltonic.github.io)
-
-This example shows How to Build a Better NFT Marketplace with React, Solidity, and CometChat:
+This shows How to Build a Better NFT Marketplace with React, Solidity, and CometChat:
 
 ![TimelessNFT Project](./screenshots/0.gif)
 <center><figcaption>TimelessNFT Project</figcaption></center>
@@ -21,7 +19,7 @@ This demo uses:
 - Web3js
 - Faucet
 
-## Running the demo
+## Running the project
 
 To run the project follow these steps:
 
@@ -55,14 +53,8 @@ To run the project follow these steps:
 7. Add some ganache accounts, connect your wallet and interact with the app.
 <br/>
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/timelessNFT/issues). We're here to help ✌️
-Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEwRt776FXbYgWm6-OBFiUu6zTeOgRbXXyI/edit?usp=sharing).
-
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Truffle](https://trufflesuite.com/)
@@ -72,4 +64,3 @@ Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEw
 - 👀 [Web3Js](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
 - 🤖 [Ganache](https://trufflesuite.com/ganache/index.html)
-- ✨ [Live Demo](https://timelessnft-33dea.web.app/)
