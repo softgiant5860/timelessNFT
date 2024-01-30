@@ -23,7 +23,7 @@ This demo uses:
 
 ## Running the demo
 
-To run the demo follow these steps:
+To run the project follow these steps:
 
 1. Clone the project with the code below.
     ```sh
